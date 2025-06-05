@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78c7ecb0-4585-4441-a84a-e89ff1424d00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados/lista01_ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados/lista01_ex8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;conancamargo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:conancamargo/fundamentos_ml.git&quot;,
+    &quot;accountId&quot;: &quot;916ff45b-2302-44fb-9fea-c1bfc1c7e5fa&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xH2wzt5Ma1bQzXETDOMHTYXd58" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.conjuntos.executor": "Run",
+    "Python.dicionarios.executor": "Run",
+    "Python.lista01_ex1.executor": "Run",
+    "Python.lista01_ex2.executor": "Run",
+    "Python.lista01_ex3.executor": "Run",
+    "Python.lista01_ex4.executor": "Run",
+    "Python.lista01_ex5.executor": "Run",
+    "Python.lista01_ex6.executor": "Run",
+    "Python.lista01_ex7.executor": "Run",
+    "Python.lista01_ex8.executor": "Run",
+    "Python.listas.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tuplas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/aurora/PycharmProjects/Fundamentos_ML",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78c7ecb0-4585-4441-a84a-e89ff1424d00" name="Changes" comment="" />
+      <created>1747580920763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747580920763</updated>
+      <workItem from="1747580921929" duration="1515000" />
+      <workItem from="1747582452739" duration="1120000" />
+      <workItem from="1747583587166" duration="65000" />
+      <workItem from="1747583814322" duration="111000" />
+      <workItem from="1747659711184" duration="800000" />
+      <workItem from="1747853473155" duration="996000" />
+      <workItem from="1747854492283" duration="1247000" />
+      <workItem from="1747918275235" duration="14745000" />
+      <workItem from="1747936953383" duration="7089000" />
+      <workItem from="1748868573942" duration="1233000" />
+      <workItem from="1748953666216" duration="5211000" />
+      <workItem from="1748959870884" duration="1687000" />
+      <workItem from="1749038915325" duration="10000" />
+      <workItem from="1749038949502" duration="5006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex4.coverage" NAME="lista01_ex4 Coverage Results" MODIFIED="1748956919718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex6.coverage" NAME="lista01_ex6 Coverage Results" MODIFIED="1748958333289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex1.coverage" NAME="lista01_ex1 Coverage Results" MODIFIED="1747937562804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex5.coverage" NAME="lista01_ex5 Coverage Results" MODIFIED="1748957412522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex8.coverage" NAME="lista01_ex8 Coverage Results" MODIFIED="1749041540874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex2.coverage" NAME="lista01_ex2 Coverage Results" MODIFIED="1747944204357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$main.coverage" NAME="main Coverage Results" MODIFIED="1747922098590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$listas.coverage" NAME="listas Coverage Results" MODIFIED="1747924567461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$conjuntos.coverage" NAME="conjuntos Coverage Results" MODIFIED="1747934640892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$tuplas.coverage" NAME="tuplas Coverage Results" MODIFIED="1747926126703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex3.coverage" NAME="lista01_ex3 Coverage Results" MODIFIED="1748955619428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$dicionarios.coverage" NAME="dicionarios Coverage Results" MODIFIED="1747930255113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fundamentos_ML$lista01_ex7.coverage" NAME="lista01_ex7 Coverage Results" MODIFIED="1748960376785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de exercícios/Lista 01 - Estrutura de Dados" />
+  </component>
+</project>
